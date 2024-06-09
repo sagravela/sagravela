@@ -35,6 +35,9 @@
 [![](https://img.shields.io/badge/tsibble-6DB5D3.svg?style=flat&logo=r&logoColor=white)](https://github.com/sagravela)
 [![](https://img.shields.io/badge/purrr-ED3737.svg?style=flat&logo=r&logoColor=white)](https://github.com/sagravela)
 
+## Portfolio
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=sales_time_series_forecast&show_owner=true&theme=github_dark)](https://github.com/sagravela/sales_time_series_forecast)
+
 ## 📈 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagravela&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
