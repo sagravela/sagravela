@@ -1,8 +1,17 @@
 # Hi there 👋
+I'm Alejandro Vargas, a geophysicist with a passion for data science and artificial intelligence. My journey through the depths of the Earth has equipped me with a unique perspective on handling and interpreting vast amounts of data, from the source to modeling. Now, I am channeling that expertise into the exciting world of data science.
 
-## 💫 About Me:
+I thrive on uncovering hidden patterns and making data-driven decisions. Whether it's creating pipelines or training AI models, I love turning complex datasets into actionable insights. I am passionate about leveraging cutting-edge techniques to solve real-world problems.
 
-## 🌐 Socials:
+🔍 Key Interests:
+
+- Big Data Analytics
+- Machine Learning & AI
+- Data Visualization
+- Predictive Modeling
+
+Feel free to browse my projects and connect with me. Let's innovate and make data-driven discoveries together!  
+🌐 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-vargas-096410194/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sagravela)
 
@@ -38,12 +47,13 @@
 ## Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=sales_time_series_forecast&show_owner=true&theme=github_dark_dimmed)](https://github.com/sagravela/sales_time_series_forecast)
 
+<!--
 ## 📈 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagravela&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagravela&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagravela&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagravela&theme=github_dark&hide_border=true" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagravela&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+</div> 
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -51,7 +61,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Iam-007Swarna&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" />
   </a>
 </div>
-
+-->
 ### ✍️ Random Dev Quote
 <div align="center">
   <a href="https://github.com/sagravela">
@@ -67,6 +77,8 @@
 </div>
 
 ---
+
 <a href="https://github.com/sagravela">
   <img align="right" src="https://visitcount.itsvg.in/api?id=Iam-007Swarna&icon=0&color=9" />
 </a>
+
