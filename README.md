@@ -45,7 +45,8 @@ Feel free to browse my projects and connect with me. Let's innovate and make dat
 [![](https://img.shields.io/badge/purrr-ED3737.svg?style=flat&logo=r&logoColor=white)](https://github.com/sagravela)
 
 ## Portfolio
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=sales_time_series_forecast&show_owner=true&theme=github_dark_dimmed)](https://github.com/sagravela/sales_time_series_forecast)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=sales_time_series_forecast&show_owner=true&theme=github_dark_dimmed)](https://github.com/sagravela/sales_time_series_forecast)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=recommendation_engine&show_owner=true&theme=github_dark_dimmed)](https://github.com/sagravela/recommendation_engine)
 
 <!--
 ## 📈 GitHub Stats:
