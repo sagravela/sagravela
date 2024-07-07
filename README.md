@@ -47,7 +47,7 @@ Feel free to browse my projects and connect with me. Let's innovate and make dat
 ## Portfolio
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=sales_time_series_forecast&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/sales_time_series_forecast)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=recommendation_engine&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/recommendation_engine)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=web_scraping&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/ws_projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=ws_projects&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/ws_projects)
 
 <!--
 ## 📈 GitHub Stats:
