@@ -47,7 +47,7 @@ Feel free to browse my projects and connect with me. Let's innovate and make dat
 ## Portfolio
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=sales_time_series_forecast&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/sales_time_series_forecast)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=recommendation_engine&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/recommendation_engine)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=web_scraping&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/web_scraping)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=web_scraping&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/ws_projects)
 
 <!--
 ## 📈 GitHub Stats:
@@ -64,17 +64,9 @@ Feel free to browse my projects and connect with me. Let's innovate and make dat
   </a>
 </div>
 -->
-### ✍️ Random Dev Quote
 <div align="center">
   <a href="https://github.com/sagravela">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  </a>
-</div>
-
-### 😂 Random Dev Meme
-<div align="center">
-  <a href="https://github.com/sagravela">
-    <img src='https://memer-new.vercel.app/' style="height: 400px;" />
   </a>
 </div>
 
