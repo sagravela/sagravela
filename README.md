@@ -10,8 +10,7 @@ I thrive on uncovering hidden patterns and making data-driven decisions. Whether
 - Data Visualization
 - Predictive Modeling
 
-Feel free to browse my projects and connect with me. Let's innovate and make data-driven discoveries together!  
-🌐 
+Feel free to browse my projects and connect with me. Let's innovate and make data-driven discoveries together!🌐   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-vargas-096410194/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sagravela)
 
