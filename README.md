@@ -1,7 +1,5 @@
 # Hi there 👋
-I'm Alejandro Vargas, a geophysicist with a passion for data science and artificial intelligence. My journey through the depths of the Earth has equipped me with a unique perspective on handling and interpreting vast amounts of data, from the source to modeling. Now, I am channeling that expertise into the exciting world of data science.
-
-I thrive on uncovering hidden patterns and making data-driven decisions. Whether it's creating pipelines or training AI models, I love turning complex datasets into actionable insights. I am passionate about leveraging cutting-edge techniques to solve real-world problems.
+My background as a Geophysicist has given me a deep appreciation for working with complex, vast datasets—from raw data collection to advanced modeling. Now, I’m channeling that expertise into the dynamic world of Data Science and AI. I’m passionate about uncovering hidden patterns and transforming data into actionable insights. Whether it's building efficient data pipelines or training AI models, I love taking on challenges that turn complexity into clarity. Solving real-world problems using cutting-edge technology is what drives me every day.
 
 🔍 Key Interests:
 
