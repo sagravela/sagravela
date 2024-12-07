@@ -8,7 +8,8 @@ My background as a Geophysicist has given me a deep appreciation for working wit
 - Data Visualization
 - Predictive Modeling
 
-Feel free to browse my projects and connect with me. Let's innovate and make data-driven discoveries together!🌐   
+Feel free to browse my projects and connect with me. Let's innovate and make data-driven discoveries together!🌐  
+[![Personal Web Page](https://sagravela.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-vargas-096410194/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sagravela)
 
@@ -42,25 +43,11 @@ Feel free to browse my projects and connect with me. Let's innovate and make dat
 [![](https://img.shields.io/badge/purrr-ED3737.svg?style=flat&logo=r&logoColor=white)](https://github.com/sagravela)
 
 ## Portfolio
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=recommendation_enginet&show_owner=true&theme=github_dark_dimmed&description_lines_count=1)](https://github.com/sagravela/recommendation_engine)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=sales_time_series_forecast&show_owner=true&theme=github_dark_dimmed&description_lines_count=1)](https://github.com/sagravela/sales_time_series_forecast)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=POSApp&show_owner=true&theme=github_dark_dimmed&description_lines_count=1)](https://github.com/sagravela/POSApp)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=ws_projects&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/ws_projects)
 
-<!--
-## 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagravela&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagravela&theme=github_dark&hide_border=true" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagravela&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div> 
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/sagravela">
-    <img src="https://github-profile-trophy.vercel.app/?username=Iam-007Swarna&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" />
-  </a>
-</div>
--->
 <div align="center">
   <a href="https://github.com/sagravela">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
