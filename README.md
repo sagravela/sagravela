@@ -9,7 +9,7 @@ My background as a Geophysicist has given me a deep appreciation for working wit
 - Predictive Modeling
 
 Feel free to browse my projects and connect with me. Let's innovate and make data-driven discoveries together!🌐  
-[![Personal Web Page](https://sagravela.github.io)
+[![Personal Web Page](https://img.shields.io/badge/Personal%20Web%20Page-8A2BE2)](https://sagravela.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-vargas-096410194/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sagravela)
 
@@ -46,7 +46,7 @@ Feel free to browse my projects and connect with me. Let's innovate and make dat
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=recommendation_enginet&show_owner=true&theme=github_dark_dimmed&description_lines_count=1)](https://github.com/sagravela/recommendation_engine)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=sales_time_series_forecast&show_owner=true&theme=github_dark_dimmed&description_lines_count=1)](https://github.com/sagravela/sales_time_series_forecast)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=POSApp&show_owner=true&theme=github_dark_dimmed&description_lines_count=1)](https://github.com/sagravela/POSApp)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=ws_projects&show_owner=true&theme=github_dark_dimmed&description_lines_count=2)](https://github.com/sagravela/ws_projects)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sagravela&repo=ws_projects&show_owner=true&theme=github_dark_dimmed&description_lines_count=1)](https://github.com/sagravela/ws_projects)
 
 <div align="center">
   <a href="https://github.com/sagravela">
